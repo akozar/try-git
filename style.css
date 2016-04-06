@@ -1,0 +1,115 @@
+.item-table tr td{
+text-align: center;
+};
+.item-refresher{
+display: inline-block;
+}
+#header-inline{
+display: inline-block;
+}
+.panel-title{
+border-color:gray;
+}
+.title-header {
+font-size: 30px;
+}
+.warn-block{
+color: #d9534f;
+border: 1px solid;
+display: inline-block;
+margin-left: 14px;
+padding: 7px;
+margin-bottom: 15px;
+text-align: left;
+}
+.material-container span span{
+color: #E60F0F;
+}
+.material-container span{
+display: inline-block;
+}
+.material-container button{
+opacity: 1;
+text-shadow: 0 1px 0 #000;
+margin-left: 5px;
+font-size: 100%;
+}
+.material-container h3{
+display: inline-block;
+margin-bottom: 0px;
+margin-top: 7px;
+margin-right: 5px;
+}
+#imgFile{
+margin-top:3px;	
+}
+#printMaterials div.input-group{
+float: left;
+}
+
+#printMaterials .checkbox {
+padding-top: 0px;
+}
+
+.storage-status{
+	margin-top: 5px;
+	font-size: 22px;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
+.hidden {
+	display: none;
+}
+#comp-avail table span{
+	padding-right: 10px;
+}
+#comp-avail table tr.danger a, #comp-avail table tr.success a{
+	cursor: pointer;
+}
+
+#comp-avail table td a:hover{
+	color: red;
+};
+.show {
+  display: block !important;
+}
+.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+.invisible {
+  visibility: hidden;
+}
+
+#materialPanelForDevice table a:hover{
+	color:red
+};
+
+.bg-primary {
+	padding: 5px 10px 5px 10px;
+}
+
+.ui-widget input{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+
+.ui-menu-item {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;	
+}
+
+.panel-heading h3 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: normal;
+    width: 75%;
+    padding-top: 8px;
+}
